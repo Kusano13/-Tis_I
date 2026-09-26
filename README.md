@@ -1,1 +1,1 @@
-Open Main.html to START
+Open *Main.html* to START
